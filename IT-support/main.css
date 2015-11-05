@@ -1,0 +1,40 @@
+h1 {
+    font-family: cursive;
+    margin-left: 3em; 
+    color: white;
+}
+h2 {
+    font-family: cursive;
+    color: #ffffff;
+    margin-left: 0em;
+}
+body {
+    background: #000000;
+}
+p {
+    color:white;
+   
+}
+.header {
+    list-style-type: none;
+    margin-left: 32em;
+    background-color: aqua;
+    padding: 0;
+    color: white;
+    position: absolute;
+}
+li {
+    display:inline;
+    color:black;
+    
+}
+.background {
+    background-color: #D0D5E0;
+    margin-left:6em;
+    margin-right: 6em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    
+}
